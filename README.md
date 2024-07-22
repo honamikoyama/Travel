@@ -38,5 +38,6 @@ doria
 anpan
 walnut
 onigiri
+Omuraisu
 yakisoba
 sushi
