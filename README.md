@@ -41,3 +41,4 @@ onigiri
 Omuraisu
 yakisoba
 sushi
+niku
